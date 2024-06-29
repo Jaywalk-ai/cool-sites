@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Jaywalk AI Links</title>
+        <link>https://example.com</link>
+        <description>Links related to Jaywalk AI</description>
+        <item>
+            <title>Jaywalk AI on Crunchbase</title>
+            <link>https://www.crunchbase.com/organization/jaywalk-ai</link>
+            <description>Profile of Jaywalk AI on Crunchbase.</description>
+        </item>
+        <item>
+            <title>Jaywalk AI on Dessign</title>
+            <link>https://dessign.net/jaywalk-ai/</link>
+            <description>Article about Jaywalk AI on Dessign.</description>
+        </item>
+        <item>
+            <title>Wikipedia Article on Dollar General</title>
+            <link>https://en.wikipedia.org/wiki/Dollar_General</link>
+            <description>Wikipedia entry for Dollar General.</description>
+        </item>
+        <item>
+            <title>Jaywalk AI on Perplexity</title>
+            <link>https://www.perplexity.ai/page/Why-Jaywalkai-is-XVdnwMdVSayO.vXFiGLZXQ</link>
+            <description>Article on Perplexity about Jaywalk AI.</description>
+        </item>
+        <item>
+            <title>Google Maps Data Exporter Chrome Extension</title>
+            <link>https://chromewebstore.google.com/detail/google-maps-data-exporter/obpgpnphoiaehcnfhgfoelncaakchjbg</link>
+            <description>Chrome Web Store page for Google Maps Data Exporter.</description>
+        </item>
+        <item>
+            <title>Jaywalk AI on Dang AI</title>
+            <link>https://dang.ai/tool/ai-sales-intelligence-tool-jaywalkai</link>
+            <description>Article about Jaywalk AI on Dang AI.</description>
+        </item>
+        <item>
+            <title>Jaywalk AI FAQs</title>
+            <link>https://jaywalkai.zendesk.com/hc/en-us/articles/30680526031635-FAQs</link>
+            <description>Frequently Asked Questions about Jaywalk AI on Zendesk.</description>
+        </item>
+        <item>
+            <title>Google Maps Scraper Chrome Extension Walkthrough</title>
+            <link>https://lucky-event-979.notion.site/Google-Maps-Scraper-Chrome-Extension-Walkthrough-b6aaa06cd66e431098b08d30a07b0112</link>
+            <description>Walkthrough of Google Maps Scraper Chrome Extension on Notion.</description>
+        </item>
+    </channel>
+</rss>
