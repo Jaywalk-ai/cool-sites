@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Jaywalk AI Links</title>
-        <link>https://example.com</link>
+        <link>https://raw.githubusercontent.com/Jaywalk-ai/cool-sites/main/jaywalk_ai_rss_feed.xml</link>
         <description>Links related to Jaywalk AI</description>
         <item>
             <title>Jaywalk AI on Crunchbase</title>
